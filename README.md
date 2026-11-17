@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE:17/11/2026
+## NAME:Adithya killari
+## ROLL NUMBER:RA2511030010376
+## DEPARTMENT:CSE (CYBER SECURITY)
 
 ---
 
@@ -200,28 +200,22 @@ HLT
 ## OUTPUT OF SIMULATION:
 
 ### FIGURE-01: ADDITION OUTPUT
+<img width="422" height="443" alt="WhatsApp Image 2026-11-17 at 4 34 48 PM" src="https://github.com/user-attachments/assets/e8a0197b-6ac6-4097-acd1-6beb5d248ec7" />
 
-Upload the addition program execution screenshot here.
-
-![Addition Output](img/addition.png)
 
 ### FIGURE-02: SUBTRACTION OUTPUT
+<img width="422" height="447" alt="WhatsApp Image 2026-11-17 at 4 36 01 PM" src="https://github.com/user-attachments/assets/e8af645f-9049-4c3a-85d1-ef15f41f30dd" />
 
-Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
-Upload the multiplication program execution screenshot here.
+<img width="340" height="329" alt="WhatsApp Image 2026-11-17 at 4 37 06 PM" src="https://github.com/user-attachments/assets/a10ec4fa-0dd4-4e96-80b2-54d722f7729e" />
 
-![Multiplication Output](img/multiplication.png)
 
 ### FIGURE-04: DIVISION OUTPUT
+<img width="340" height="329" alt="WhatsApp Image 2026-11-17 at 4 37 49 PM" src="https://github.com/user-attachments/assets/2ebd21eb-06e3-4b57-8e9c-579f56d30d13" />
 
-Upload the division program execution screenshot here.
-
-![Division Output](img/division.png)
 
 ## RESULT:
 
